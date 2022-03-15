@@ -1,0 +1,14 @@
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.exe
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.deps.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.runtimeconfig.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.runtimeconfig.dev.json
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.dll
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\bin\Debug\netcoreapp3.1\14ofMarch HW.pdb
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.csproj.AssemblyReference.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.AssemblyInfoInputs.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.AssemblyInfo.cs
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.csproj.CoreCompileInputs.cache
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.dll
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.pdb
+C:\Users\leonk\iCloudDrive\Sənədlər\Leon Xidilov\Təhsil\Code Academy\14ofMarch HW\14ofMarch HW\obj\Debug\netcoreapp3.1\14ofMarch HW.genruntimeconfig.cache
